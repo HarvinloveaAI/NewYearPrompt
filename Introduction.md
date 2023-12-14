@@ -12,8 +12,8 @@ Join me in this exploration of creativity and technology, where each prompt open
 3. 👺 **Prompt Jailbreaking**: Explore methods to 'jailbreak' the boundaries of LLM models. 
 4. 🎉 **Product Manager Doc Generator**: Creating product specifications, project plans, or progress reports. Let your prompt streamline the work of product managers.
 5. 🌞**Personal Growth Assistant**: Assist users in their personal growth journey. 
-6. 🌞**Business Assistant**: Help in project management, customer service, or data analysis. Let your prompt contribute to the success and growth of businesses.
-7. **AI Tutor**: Offer personalized lessons, interactive exercises, or detailed explanations. 
+6. 📜**Business Assistant**: Help in project management, customer service, or data analysis. Let your prompt contribute to the success and growth of businesses.
+7. 🌟**AI Tutor**: Offer personalized lessons, interactive exercises, or detailed explanations. 
 
 ### A Note on Authorship and Acknowledgments
 
