@@ -7,7 +7,7 @@ Join me in this exploration of creativity and technology, where each prompt open
 
 ### Domains I Explore
 
-1. 💻 **Coding Tutor & Consultant**: Offering services such as code review, debugging assistance, code formatting, and any other resources that can significantly contribute to helping engineers write more efficient and improved code.
+1. 💻 [Coding Tutor & Consultant](https://github.com/HarvinloveaAI/NewYearPrompt/blob/main/Coding%20Tutor%20%26%20Consultant.md): Offering services such as code review, debugging assistance, code formatting, and any other resources that can significantly contribute to helping engineers write more efficient and improved code.
 2. 🔍 **SEO Strategies**: Assist with search engine optimization
 3. 👺 **Prompt Jailbreaking**: Explore methods to 'jailbreak' the boundaries of LLM models. 
 4. 🎉 **Product Manager Doc Generator**: Creating product specifications, project plans, or progress reports. Let your prompt streamline the work of product managers.
